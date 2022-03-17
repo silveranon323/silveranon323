@@ -1,4 +1,4 @@
-# Hi there, I'm Hem Kishore Pradhan - aka SilverAnon👋 
+# Hi there, I'm SilverAnon👋 .
 
 
 ## I'm a Coder, FreeLancer, Web and Android Developer, and Student!
