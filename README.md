@@ -10,7 +10,7 @@
 # Hi there, I'm SilverAnon👋 .
 
 
-## I'm a |STUDENT|CODER|WEB AND ANDROID DEVLOPER|UI&UX DESIGNER|FREELENCER|
+## I'm a |STUDENT|CODER|WEB AND ANDROID DEVLOPER|UI&UX DESIGNER|FREELANCER|
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators.
