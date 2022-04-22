@@ -4,7 +4,6 @@
   </a>
 </h1>
  Hi 👋 My name is Hem Kishore Pradhan
-====================================
 
 Front-end Mobile and Web Developer
 ----------------------------------
