@@ -9,8 +9,10 @@ Hi 👋 My name is Hem Kishore Pradhan
 Front-end Mobile and Web Developer
 ----------------------------------
 
-I enjoy solving technical problems, researching and developing new technologies, designing software applications for different platforms. I am also interested in pursuing degree programs in Information Systems Management, Computer Engineering, or Computer Science. I enjoy meeting people and working with them in a team environment. I also enjoy interacting with new people . I am a quick learner with a fun, outgoing personality. In addition, I excel in my ability to work under pressure and handle stressful situations very well.
+I'm an undergraduate Computer Science student at the Institute of Technical Education and Research (ITER) SOA .  Looking to make an impact in the fields of Artificial Intelligence and Robotics. I'm interested in how computers can create new solutions to modern problems.
 
+As a budding cutting-edge technocrat, I've had a lot of experience with programming languages such as Python, C++, Java, HTML, CSS, Javascript and working with Git/Github. I'm still passionately grabbing onto any other languages I can get under my belt. 
+My specialities include problem-solving, learning new programming languages, creation and innovation, and anything that integrates creativity, and logic into real-life frameworks and principles.
 * 🌍  I'm based in India
 * ✉️  You can contact me at [hemkishoresoa@gmail.com](mailto:hemkishoresoa@gmail.com)
 * 🧠  I'm learning Java And Kotlin
