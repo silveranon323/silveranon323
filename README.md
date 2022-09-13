@@ -6,7 +6,7 @@
 Hi 👋 My name is Hem Kishore Pradhan
 ====================================
 
-Front-end Mobile and Web Developer
+Fullstack Mobile(React-Native)and Web Developer(Mernstack)
 ----------------------------------
 
 I'm an undergraduate Computer Science student at the Institute of Technical Education and Research (ITER) SOA .  Looking to make an impact in the fields of Artificial Intelligence and Robotics. I'm interested in how computers can create new solutions to modern problems.
