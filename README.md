@@ -24,7 +24,6 @@ My specialities include problem-solving, learning new programming languages, cre
 
 <a href="https://www.github.com/silveranon323" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/silveranon323?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-![Profile views](https://gpvc.arturio.dev/[silveranon323])
 
 ### Skills
 
