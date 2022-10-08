@@ -22,6 +22,15 @@ My specialities include problem-solving, learning new programming languages, cre
 * 🤝  I'm open to collaborating on intresting Projects.
 * ⚡  I'm a Quick learner.
 
+
+
+
+<p>Profile Views 
+
+![Visitor Count](https://profile-counter.glitch.me/{silveranon323}/count.svg)</p>
+
+
+
 <a href="https://www.github.com/silveranon323" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/silveranon323?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
