@@ -11,7 +11,7 @@ Hi 👋 My name is Hem Kishore Pradhan
 
 ===============================
 
-Fullstack Mobile(React-Native)and Web Developer(Mernstack)
+Fullstack Webdevloper
 ----------------------------------
 
 As a budding cutting-edge technocrat, I've had a lot of experience with programming languages such as Python, C++, Java, HTML, CSS, Javascript and working with Git/Github. I'm still passionately grabbing onto any other languages I can get under my belt. 
