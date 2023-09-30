@@ -33,6 +33,7 @@ My specialities include problem-solving, learning new programming languages, cre
 
 <a href="https://www.github.com/silveranon323" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/silveranon323?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+[![An image of @silveranon_323's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/silveranon_323)](https://holopin.io/@silveranon_323)
 
 ### Skills
 
