@@ -1,4 +1,7 @@
 <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);print(%22Hello%2C%20World!%22);printf(%22Hello%2C%20World!%22);fmt.Println(%22Hello%2C%20World!%22);println!(%22Hello%2C%20World!%22);cout%20%3C%3C%20%22Hello%2C%20World!%22&center=true&size=27&width=550"> </a> </h1>
+---
+[![](https://visitcount.itsvg.in/api?id=silveranon323&icon=5&color=12)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 As an aspiring Fullstack Web Developer, I bring a wealth of experience in a plethora of programming languages, ranging from Python, C++, and Java to the dynamic trio of web technologies: HTML, CSS, and Javascript. My journey is not merely about mastering existing languages; it's a relentless pursuit of new horizons, constantly expanding my repertoire to include cutting-edge technologies and frameworks.
 
@@ -25,7 +28,5 @@ With a relentless drive for creation and innovation, I am poised to tackle the m
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=silveranon323&icon=5&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
