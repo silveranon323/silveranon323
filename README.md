@@ -64,6 +64,44 @@ I'm an aspiring Fullstack Web Developer skilled in Python, C++, Java, HTML, CSS,
 
 ---
 
+## 🏅 Certifications:
+
+### 1. **AWS Academy Graduate - AWS Academy Cloud Security Foundations**
+   - **Issuer:** Amazon Web Services (AWS)
+   - **Issued:** Jul 2024
+   - **Skills:** Amazon Web Services (AWS), AWS Cloud, AWS Cloud Security, AWS Identity and Access Management (AWS IAM)
+   - **Tech Stack:**
+     | ![AWS](https://img.shields.io/badge/AWS%20Academy%20Cloud%20Security%20Foundations-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+     |---|
+   - **[Certificate](https://example.com/AWS_Academy_Graduate___AWS_Academy_Cloud_Security_Foundations_Badge20240731-7-pcyhsv.pdf)**
+
+---
+
+### 2. **Foundations of Cybersecurity**
+   - **Issuer:** Coursera
+   - **Issued:** Jun 2024
+   - **Credential ID:** 6JJHZY3QZG8W
+   - **Skills:** Cybersecurity
+   - **Tech Stack:**
+     | ![Coursera](https://img.shields.io/badge/Coursera-%23000000.svg?style=for-the-badge&logo=coursera&logoColor=white) |
+     |---|
+   - **[Certificate](https://www.coursera.org/account/accomplishments/verify/6JJHZY3QZG8W)**
+
+---
+
+### 3. **Google Digital Garage**
+   - **Issuer:** Google
+   - **Issued:** Apr 2022
+   - **Credential ID:** EHX YBJ LE3
+   - **Tech Stack:**
+     | ![Google](https://img.shields.io/badge/Google%20Digital%20Garage-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white) |
+     |---|
+   - **[Certificate](https://grow.google/intl/en_in/?utm_source=redirect&utm_medium=redirect&utm_term=gwg&utm_content=apac&utm_campaign=redirect)**
+
+
+---
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=silveranon323&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=silveranon323&theme=blue-green&hide_border=false)<br/>
