@@ -13,6 +13,37 @@ I'm an aspiring Fullstack Web Developer skilled in Python, C++, Java, HTML, CSS,
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+# 📂 Projects:
+### 1. **Phishing Website Detection**
+   - A machine learning-based solution designed to detect phishing websites by analyzing features like URL, HTML content, and metadata.
+   - Implements multiple machine learning algorithms to classify websites as phishing or legitimate with high accuracy.
+   - Provides an intuitive interface for users to predict phishing websites effortlessly.
+   - Comprehensive evaluation metrics are used to assess the model's performance and ensure reliability.
+   - **GitHub:** [Repository Link](https://github.com/silveranon323/Phishing-Website-Detection-System)
+     
+### 2. **Crunch Admin - Client-Server Dictionary Generation System**
+   - Developed a client-server system using Java and socket programming to generate dictionaries for specified keywords and parameters via a Command-Line Interface (CLI).
+   - Explores bruteforce attack methodologies, offering network administrators tools for dictionary creation and management.
+   - Provides a robust CLI for client interactions, allowing users to request and manage dictionary files from the server.
+   - Emphasizes educational value in network administration, socket programming, and ethical considerations of bruteforce attacks.
+   - **GitHub:** [Repository Link](https://github.com/silveranon323/CRUNCH-ADMIN)
+
+### 3. **AyurVisionary - AI/ML Health Insights Platform**
+   - An innovative AI/ML project designed to empower individuals by analyzing medical images and providing insights into potential health conditions.
+   - Features advanced image analysis and disease prediction capabilities, offering users a preliminary understanding of possible medical conditions.
+   - Provides a user-friendly interface and educational resources to help users better understand their health.
+   - Aims to bridge the gap in access to healthcare information, serving as an initial reference while encouraging professional medical consultation.
+   - **GitHub:** [Repository Link](https://github.com/silveranon323/AyurVisionary)
+
+### 4. **Anomaly Detection System**
+   - Developed a robust anomaly detection system using machine learning techniques to identify unusual patterns in data, applicable in areas like fraud detection and network security.
+   - Features comprehensive data preprocessing, model training with various algorithms, and performance evaluation using multiple metrics.
+   - Includes visualization tools to better understand and differentiate between anomalies and normal data points.
+   - Easy setup with Python 3.7+ and essential libraries, allowing seamless integration and deployment.
+
+   - **GitHub:** [Repository Link](https://github.com/silveranon323/ANAMOLY-DETECTION-SYSTEM-USING-MACHINE-LEARNING)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=silveranon323&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=silveranon323&theme=blue-green&hide_border=false)<br/>
