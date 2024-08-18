@@ -100,6 +100,40 @@ I'm an aspiring Fullstack Web Developer skilled in Python, C++, Java, HTML, CSS,
 
 
 ---
+# 💼 Work Experience
+
+### 🛡️ Cybersecurity and Network Security Trainee
+**Ernst & Young**  
+*June 21, 2024 – August 3, 2024*  
+- Gained hands-on experience in cybersecurity and network security.
+- Engaged in various security assessments, vulnerability analyses, and incident response activities.
+- Contributed to the development and implementation of security policies and procedures.
+
+---
+
+### 🤖 Generative AI Developer
+**Tata Steel**  
+*May 2024 – June 2024*  
+- Developed a Generative AI-based chatbot that works on unstructured data.
+- Worked on enhancing the chatbot’s capability to understand and process various forms of unstructured input.
+- Collaborated with a team to refine the chatbot’s functionalities and user experience.
+
+---
+
+### 🌟 Open Source Contributor
+**Hacktoberfest 2022**  
+- Contributed to various open-source projects during Hacktoberfest.
+- Collaborated with the community to improve software and documentation.
+- Enhanced coding and collaborative skills through active participation.
+
+---
+
+### 💻 Full-time Freelancer
+- Provided web development and programming services to various clients.
+- Worked on diverse projects including website development, software solutions, and tech consulting.
+- Applied skills in MERN stack, Python, Java, and other technologies to deliver high-quality solutions.
+
+---
 
 
 # 📊 GitHub Stats:
