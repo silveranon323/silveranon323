@@ -5,8 +5,27 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=silveranon323&icon=5&color=12)](https://visitcount.itsvg.in)
 
-# 💫 About Me:
-I'm an aspiring Fullstack Web Developer skilled in Python, C++, Java, HTML, CSS, and JavaScript. With strong Git and GitHub proficiency, I blend creativity and logic to solve problems and deliver innovative solutions. My passion for learning new technologies keeps me at the forefront of the ever-evolving tech landscape. Let's bring ideas to life through elegant, efficient code.
+### 👋 About Me
+
+Hi there! I'm **Hem Kishore Pradhan**, a passionate Fullstack Web Developer and Cybersecurity enthusiast. I love building scalable web applications, diving into backend systems with Spring Boot, and exploring the latest in ethical hacking and cloud security.
+
+- 💻 Tech Stack: Java, Spring Boot, Angular, Python, C++, HTML/CSS/JavaScript
+- 🔐 Cybersecurity Trainee @ Ernst & Young (Jun–Aug 2024)
+- ☁️ Certified in Google Cybersecurity Foundations & AWS Cloud Security
+- 🛠️ Working on cool projects like:  
+  `🧠 AyurVisionary` – AI/ML Health Insights Platform  
+  `📦 Crunch Admin` – Client-Server Dictionary Generator  
+  `🚨 Phishing Detection` – ML-based web threat detector
+
+- 🌱 Currently learning: Microservices, Docker, OAuth 2.0, and Spring Cloud
+- 💬 Ask me about: Web Dev, Cybersecurity, Cloud, or anything tech!
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/hemkishorepradhan) or check out my blog on [Hashnode](https://silveranon.hashnode.dev)
+
+
+---
+
+_"Code is like humor. When you have to explain it, it’s bad."_ 😄
+
 
 ---
 
