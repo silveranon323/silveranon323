@@ -39,6 +39,13 @@ _"Code is like humor. When you have to explain it, it’s bad."_ 😄
 
 ---
 
+## 🎧 Now Playing on Spotify  
+> *Music fuels my code...*
+
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
+
+---
+
 
 
 
