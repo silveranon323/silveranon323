@@ -5,27 +5,73 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=silveranon323&icon=5&color=12)](https://visitcount.itsvg.in)
 
-### 👋 About Me
+👋 About Me
+Hey, I’m Hem Kishore Pradhan — a driven Fullstack Web Developer, Cloud Security Enthusiast, and Cybersecurity Researcher, with a passion for building scalable systems, securing digital environments, and crafting real-world tech solutions.
 
-Hi there! I'm **Hem Kishore Pradhan**, a passionate Fullstack Web Developer and Cybersecurity enthusiast. I love building scalable web applications, diving into backend systems with Spring Boot, and exploring the latest in ethical hacking and cloud security.
+With over 1.5 years of hands-on experience, I’ve worked across the full stack, led impactful security projects, and contributed to the open-source community. My journey spans cloud security, microservices, ethical hacking, and machine learning integration, blending creativity with problem-solving.
 
-- 💻 Tech Stack: Java, Spring Boot, Angular, Python, C++, HTML/CSS/JavaScript
-- 🔐 Cybersecurity Trainee @ Ernst & Young (Jun–Aug 2024)
-- ☁️ Certified in Google Cybersecurity Foundations & AWS Cloud Security
-- 🛠️ Working on cool projects like:  
-  `🧠 AyurVisionary` – AI/ML Health Insights Platform  
-  `📦 Crunch Admin` – Client-Server Dictionary Generator  
-  `🚨 Phishing Detection` – ML-based web threat detector
+💼 Professional Experience
 
-- 🌱 Currently learning: Microservices, Docker, OAuth 2.0, and Spring Cloud
-- 💬 Ask me about: Web Dev, Cybersecurity, Cloud, or anything tech!
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/hemkishorepradhan) or check out my blog on [Hashnode](https://silveranon.hashnode.dev)
+Cybersecurity Trainee @ EY GDS (Jun–Aug 2024)
+Designed an IAM system with ABAC, MFA, and real-time threat detection for cloud setups.
 
+Frontend Intern @ Blem CRM (May–Jun 2024)
+Delivered high-quality landing pages using Next.js with team collaboration via Confluence.
 
----
+Fullstack Intern @ Yellowsand Consultancies, UAE (Feb–Mar 2023)
+Managed fullstack solutions across front-end and back-end workflows.
 
-_"Code is like humor. When you have to explain it, it’s bad."_ 😄
+Hacktoberfest Contributor @ DigitalOcean
+Contributed PRs to multiple open-source Java repositories during Hacktoberfest 2022.
 
+🛠️ Key Projects
+
+🎵 AudioMonk – Music genre classification using CNN on Mel spectrograms with Flask REST API
+
+GitHub
+
+🧪 Assesmate – Secure Spring Boot-based exam portal with real-time evaluation & analytics
+
+📦 Crunch Admin – Java-based dictionary generator simulating bruteforce behavior in CLI
+
+GitHub
+
+🚨 Phishing Website Detector – ML system to flag suspicious URLs
+
+🗺️ E-Waste Locator – Google Maps API-based system for locating disposal centers
+
+🤖 GenAI Chatbot – Google Gemini + Streamlit-powered intelligent assistant
+
+🧠 Currently Exploring
+
+Spring Cloud (Eureka, API Gateway, Sleuth, Swagger)
+
+Dockerization & microservice orchestration
+
+OAuth 2.0, ABAC, and RBAC-based security architecture
+
+Distributed systems, fault tolerance, and zero-trust security principles
+
+🏅 Highlights & Achievements
+
+🧠 Solved 388+ LeetCode problems; earned 17+ badges, including 365-Day streak
+
+🔐 Reported 2+ critical real-world vulnerabilities, including a business logic flaw allowing unauthorized purchases via Razorpay on a high-traffic Indian e-commerce site
+
+🎯 Certified in:
+
+Google Cybersecurity Foundations (Coursera)
+
+AWS Cloud Security Foundations (AWS Academy)
+
+EY Cybersecurity Bootcamp Graduate
+
+🏁 Finalist – EY GDS project showcase among top 10 teams
+
+🧑‍💻 Represented SOA at HackOn With Amazon (TeamWizards – Unstop)
+
+💬Let’s Connect
+I'm always open to new challenges, collaboration, and conversations around fullstack development, cybersecurity, or AI-driven applications.
 
 ---
 
